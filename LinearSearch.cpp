@@ -11,6 +11,7 @@ int main() {
 	for (int i = 0; i < s; i++) {
 		cin >> arr[i];
 	}
+	//Key element
 	cout << "Enter the element to be searched ";
 	int x;
 	cin >> x;
