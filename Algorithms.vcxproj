@@ -127,7 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BinarySearch.cpp" />
     <ClCompile Include="LinearSearch.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="binarysearch.h" />
+    <ClInclude Include="linearsearch.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
