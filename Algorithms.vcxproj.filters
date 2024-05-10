@@ -24,12 +24,18 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BreadthFirstSearch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="linearsearch.h">
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="binarysearch.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bfs.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

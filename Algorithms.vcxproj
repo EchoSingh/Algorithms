@@ -128,10 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BinarySearch.cpp" />
+    <ClCompile Include="BreadthFirstSearch.cpp" />
     <ClCompile Include="LinearSearch.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Bfs.h" />
     <ClInclude Include="binarysearch.h" />
     <ClInclude Include="linearsearch.h" />
   </ItemGroup>
