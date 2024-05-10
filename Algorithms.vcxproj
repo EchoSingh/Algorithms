@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="BinarySearch.cpp" />
     <ClCompile Include="LinearSearch.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="binarysearch.h" />

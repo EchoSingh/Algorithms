@@ -1,5 +1,6 @@
 #pragma once
 #ifndef LINEARSEARCH_H
 #define LINEARSEARCH_H
-int linearsearch(int arr[], int size, int key);
+#include <vector>
+int linearsearch(std::vector<int>arr, int size, int key);
 #endif
