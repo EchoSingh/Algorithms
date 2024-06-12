@@ -128,7 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BinarySearch.cpp" />
-    <ClCompile Include="Fibonacci1.cpp" />
+    <ClCompile Include="Fibonacci.cpp" />
     <ClCompile Include="LinearSearch.cpp" />
     <ClCompile Include="main.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

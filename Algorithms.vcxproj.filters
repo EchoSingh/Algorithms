@@ -24,7 +24,7 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Fibonacci1.cpp">
+    <ClCompile Include="Fibonacci.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
