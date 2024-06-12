@@ -128,12 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BinarySearch.cpp" />
-    <ClCompile Include="BreadthFirstSearch.cpp" />
+    <ClCompile Include="Fibonacci1.cpp" />
     <ClCompile Include="LinearSearch.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="main.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Bfs.h" />
     <ClInclude Include="binarysearch.h" />
     <ClInclude Include="linearsearch.h" />
   </ItemGroup>
