@@ -75,13 +75,13 @@ To run this project, you need:
    ```
 2. Compile the code:
 
-```bash
-g++ -o algorithms main.cpp BinarySearch.cpp Fibonacci.cpp LinearSearch.cpp
-```
+   ```bash
+   g++ -o algorithms main.cpp BinarySearch.cpp Fibonacci.cpp LinearSearch.cpp
+   ```
 3. Run the executable:
 
-```bash
-./algorithms
-```
+   ```bash
+   ./algorithms
+   ```
 ### License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/aditya26062003/Algorithms/blob/master/LICENSE) file for details.
