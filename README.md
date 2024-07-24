@@ -70,7 +70,7 @@ To run this project, you need:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aditya26062003/algorithms.git
+   git clone https://github.com/EchoSingh/algorithms.git
    cd algorithms
    ```
 2. Compile the code:
